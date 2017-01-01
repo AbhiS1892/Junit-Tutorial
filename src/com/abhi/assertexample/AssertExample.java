@@ -1,6 +1,6 @@
 package com.abhi.assertexample;
 
-public class JunitTesting {
+public class AssertExample {
 	
 	static String printString(String s){
 		String res = "Hello "+s;
