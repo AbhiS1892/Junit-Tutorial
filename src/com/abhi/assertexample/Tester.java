@@ -1,4 +1,4 @@
-package com.abhi.junit;
+package com.abhi.assertexample;
 
 import static org.junit.Assert.assertEquals;
 
